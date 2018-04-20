@@ -1,3 +1,4 @@
+
 public class DemoC{
     static int a= 9;   //static variable
      static int b= 6;   //static  variable
@@ -8,6 +9,7 @@ public class DemoC{
     public static  void addition(){
         total = a + b;
         System.out.println( "Addition :" + total);
+        System.out.println( "I have done small changes");
 
     }
 
